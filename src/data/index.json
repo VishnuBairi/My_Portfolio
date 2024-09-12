@@ -1,0 +1,65 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I have a personal project experience in front-end web application development.I was worked on different languages of front-end devlopment in different projects. like HTML, Css, Ejs and React.js and also know the basics of Flutter framework."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I have an Internship experience in back-end web application development, where I was worked on Entity360 feature project using Spring Boot and PostgreSql and I have devloped some personal projects using Node.js and Express.js with SQL and NoSQL Databases."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/shopping-img.jpg",
+      "title": "Shopping-Site-app",
+      "description": "It is a simple shopping-site web application,which is developed to demonstrate the usage of EJS, Express.js,Node.js,MongoDB,JWT,    bcrypt",
+      "link": "https://github.com/VishnuBairi/Shopping-site"
+    },
+    {
+      "id": "2",
+      "src": "./img/employee-img.jpg",
+      "title": "Employee-Management-System",
+      "description": "Employee Management System is a back-end web application which is used for managing an employee details.It is developed by using Sping Boot and PostgreSql.",
+      "link": "https://github.com/VishnuBairi/Employee-Management-System"
+    },
+    {
+      "id": "3",
+      "src": "./img/placement-img.jpg",
+      "title": "Placements Management System",
+      "description": "Placements Managemnet System is a Web Application, which is used for managing placements in institutions.It is developed by using React.js,Firebase.",
+      "link": "https://github.com/VishnuBairi/placements-management"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
