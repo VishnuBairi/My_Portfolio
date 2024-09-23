@@ -13,7 +13,7 @@ export default function HeroSection() {
             I am actively looking for a Job opprotunity of Software Engineer, Front-End Developer, Back-End Developer, Fullstack Developer and Software Developoment Roles.
           </p>
         </div>
-        <a href="/My resume.pdf" download="My Resume.pdf">
+        <a href="/Vishnu_Resume.pdf" download="Resume.pdf">
         <button className="btn-resume">Download Resume</button>
         </a>
       </div>
